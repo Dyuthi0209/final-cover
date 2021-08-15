@@ -1,0 +1,44 @@
+html, body {
+  margin: 0px;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 5px solid black;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+p{
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.i1{
+  position:absolute;
+  width: 8cm;
+  z-index: 2;
+  top:30px;
+  margin-top:300px;
+  margin-left:555px;
+  
+}
+.i2{
+  position:absolute;
+  width: 8cm;
+  z-index: 3;
+  top:30px;
+  margin-top:450px;
+  margin-left:555px;
+}
+
+.i3{
+  position:absolute;
+  width: 8.7cm;
+    z-index: 3;
+  top:30px;
+  margin-top:550px;
+  margin-left:546px;
+}
